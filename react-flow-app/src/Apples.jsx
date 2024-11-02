@@ -8,6 +8,7 @@ function Apples(){
         <hr></hr>
         <hr></hr>
         <hr></hr>
+            <h1> This is Apples Page</h1>
         <h1> Number of Apples : {apples}</h1>
         {apples===0 ?(
             <p style={{color:'red'}}>no apples left!</p>
